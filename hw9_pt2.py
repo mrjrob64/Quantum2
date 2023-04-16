@@ -24,4 +24,4 @@ plt.legend(loc='upper left')
 
 plt.show()
 
-print(y)
+plt.savefig("scatter_plot_1.png")

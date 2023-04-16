@@ -21,5 +21,6 @@ plt.scatter(n, y)
 plt.scatter(n, energies)
 plt.scatter(n, p)
 plt.show()
+plt.savefig("scatter_plot_2.png")
 
 #the difference between the two scatter plots is that the intital graph has no gaps while this one does

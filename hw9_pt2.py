@@ -22,6 +22,7 @@ plt.scatter(x, energies, label='single well')
 plt.scatter(x, y, label='multiple wells')
 plt.legend(loc='upper left')
 
+plt.savefig("scatter_plot_1.png")
+
 plt.show()
 
-plt.savefig("scatter_plot_1.png")
